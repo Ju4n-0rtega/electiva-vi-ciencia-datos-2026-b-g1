@@ -74,3 +74,13 @@ Sí, puede considerarse un caso de Big Data cuando la empresa maneja múltiples 
 ## Problem & data (English section)
 
 Our team is analyzing the raw-material inventory management process in an industrial company, focusing on when to place a new purchase order and how much to order. Poor decisions in this process lead either to excess inventory and higher storage costs, or to stockouts that delay production. To support this decision, we need data from several sources: current inventory levels, sales history, production orders, supplier delivery times, purchase invoices, supplier emails, photos of damaged goods, and warehouse sensor logs. These sources include structured data such as inventory and sales tables, semi-structured data such as delivery logs and invoices, and unstructured data such as emails and images. We plan to use predictive analytics to forecast future demand for each raw material, and prescriptive analytics to automatically recommend the reorder point and the optimal order quantity. Combining these analytics types should help the company reduce storage costs, avoid production stoppages, and make faster, data-driven purchasing decisions.
+
+## Referencias
+
+Laney, D. (2001). *3D data management: Controlling data volume, velocity, and variety*. META Group Research Note. https://blogs.gartner.com/doug-laney/files/2012/01/ad949-3D-Data-Management-Controlling-Data-Volume-Velocity-and-Variety.pdf
+
+Davenport, T. H., & Harris, J. G. (2007). *Competing on analytics: The new science of winning*. Harvard Business School Press.
+
+Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. O'Reilly Media.
+
+IBM. (s.f.). *The four V's of Big Data: Volume, Velocity, Variety and Veracity*. IBM Big Data & Analytics Hub. https://www.ibmbigdatahub.com
