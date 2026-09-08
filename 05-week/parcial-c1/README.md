@@ -6,6 +6,8 @@ GITHUB_USER: Ju4n-0rtega
 
 # Parcial Práctico · Corte 1 — Ciencia de Datos
 
+**Repositorio GitHub:** https://github.com/Ju4n-0rtega/electiva-vi-ciencia-datos-2026-b-g1/tree/main/05-week/parcial-c1
+
 **Modalidad:** Individual
 
 **Caso elegido:** Logística y gestión de inventarios de materias primas en una empresa industrial
