@@ -7,6 +7,7 @@ GITHUB_USER: Ju4n-0rtega
 # Parcial Práctico · Corte 1 — Ciencia de Datos
 
 **Modalidad:** Individual
+
 **Caso elegido:** Logística y gestión de inventarios de materias primas en una empresa industrial
 
 ---
@@ -56,4 +57,5 @@ flowchart LR
 
 ## English section
 
-Descriptive analytics looks at historical inventory and sales data to summarize what has already happened, such as average stock levels over the last quarter. Predictive analytics, on the other hand, uses that same historical data to build models that estimate future outcomes, such as forecasting how much raw material will be needed in the coming weeks.
+- Descriptive analytics looks at historical inventory and sales data to summarize what has already happened, such as average stock levels over the last quarter.
+- Predictive analytics uses that same historical data to build models that estimate future outcomes, such as forecasting how much raw material will be needed in the coming weeks.
