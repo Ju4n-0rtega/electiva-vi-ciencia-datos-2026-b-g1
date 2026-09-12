@@ -8,6 +8,7 @@ GITHUB_USER: Ju4n-0rtega
 
 **Modalidad:** Individual
 **Tipo:** Formativa (opcional, sin nota)
+
 **Caso:** Logística y gestión de inventarios de materias primas en una empresa industrial
 
 ---
