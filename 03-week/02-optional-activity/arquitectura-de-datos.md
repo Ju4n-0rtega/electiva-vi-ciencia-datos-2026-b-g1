@@ -14,6 +14,7 @@ GITHUB_USER: Ju4n-0rtega
 
 ## 1. Arquitectura de datos: fuentes → ingesta → almacenamiento → procesamiento → análisis/BI
 
+
 ```mermaid
 flowchart LR
     subgraph Fuentes
