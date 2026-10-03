@@ -1,0 +1,43 @@
+pedido_id,proveedor,materia_prima,cantidad_pedida,fecha_pedido,fecha_entrega_estimada,estado,dias_entrega
+1013,Insumos Andinos,Cable de cobre,121.7,2026-05-22,2026-05-27 00:00:00,En Transito,5
+1015,Acero Del Sur,Acero laminado,54.0,2026-08-03,2026-08-16 00:00:00,En Transito,13
+1022,Acero Del Sur,Acero laminado,291.3,2026-06-06,2026-06-19 00:00:00,Pendiente,13
+1027,Quimica Industrial Sas,Tinte textil,289.2,2026-05-09,2026-05-22 00:00:00,En Transito,13
+1037,Acero Del Sur,Cable de cobre,180.9,2026-05-31,2026-06-10 00:00:00,Entregado,10
+1029,Textiles Del Huila,Resina plastica,488.6,2026-07-15,2026-07-21 00:00:00,Pendiente,6
+1001,Insumos Andinos,Cable de cobre,363.7,2026-07-17,2026-07-23 00:00:00,Entregado,6
+1020,Textiles Del Huila,Resina plastica,48.1,2026-04-16,2026-04-24 12:00:00,En Transito,8
+1010,Quimica Industrial Sas,Algodon crudo,21.6,2026-06-07,2026-06-26 00:00:00,En Transito,19
+1035,Textiles Del Huila,Algodon crudo,221.8,2026-05-15,2026-05-24 00:00:00,Entregado,9
+1031,Insumos Andinos,Acero laminado,177.6,2026-06-11,2026-06-19 00:00:00,En Transito,8
+1033,Acero Del Sur,Cable de cobre,360.2,2026-08-16,2026-08-29 00:00:00,En Transito,13
+1018,Textiles Del Huila,Acero laminado,430.9,2026-08-17,2026-08-22 00:00:00,Entregado,5
+1017,Acero Del Sur,Tinte textil,433.6,2026-05-19,2026-06-01 00:00:00,Entregado,13
+1034,Quimica Industrial Sas,Acero laminado,319.1,2026-05-02,2026-05-17 00:00:00,Pendiente,15
+1041,Textiles Del Huila,Algodon crudo,153.1,2026-08-03,2026-08-09 00:00:00,En Transito,6
+1040,Textiles Del Huila,Cable de cobre,476.0,2026-08-08,2026-08-19 00:00:00,Entregado,11
+1009,Textiles Del Huila,Acero laminado,498.1,2026-08-20,2026-08-30 00:00:00,En Transito,10
+1002,Textiles Del Huila,Algodon crudo,386.5,2026-07-07,2026-07-14 00:00:00,Pendiente,7
+1032,Acero Del Sur,Algodon crudo,492.1,2026-07-21,2026-08-03 00:00:00,En Transito,13
+1016,Textiles Del Huila,Tinte textil,66.5,2026-07-18,2026-07-26 00:00:00,En Transito,8
+1021,Insumos Andinos,Cable de cobre,52.9,2026-05-31,2026-06-03 00:00:00,Entregado,3
+1024,Quimica Industrial Sas,Algodon crudo,197.4,2026-08-18,2026-09-02 00:00:00,En Transito,15
+1005,Quimica Industrial Sas,Algodon crudo,331.1,2026-05-14,2026-06-01 00:00:00,Pendiente,18
+1012,Insumos Andinos,Resina plastica,61.1,2026-04-18,2026-04-23 00:00:00,En Transito,5
+1044,Textiles Del Huila,Acero laminado,207.2,2026-07-17,2026-07-27 00:00:00,Entregado,10
+1006,Insumos Andinos,Algodon crudo,35.4,2026-06-08,2026-06-12 00:00:00,En Transito,4
+1036,Quimica Industrial Sas,Tinte textil,174.7,2026-05-25,2026-06-10 00:00:00,Entregado,16
+1042,Insumos Andinos,Algodon crudo,58.7,2026-07-08,2026-07-12 00:00:00,Pendiente,4
+1011,Insumos Andinos,Algodon crudo,393.7,2026-04-01,2026-04-06 00:00:00,Pendiente,5
+1000,Acero Del Sur,Algodon crudo,373.5,2026-08-18,2026-08-30 00:00:00,Entregado,12
+1007,Insumos Andinos,Tinte textil,328.6,2026-05-06,2026-05-14 00:00:00,En Transito,8
+1038,Acero Del Sur,Tinte textil,55.0,2026-08-26,2026-09-08 00:00:00,Pendiente,13
+1026,Quimica Industrial Sas,Tinte textil,426.1,2026-07-18,2026-08-02 00:00:00,Entregado,15
+1008,Textiles Del Huila,Tinte textil,498.8,2026-04-24,2026-05-02 12:00:00,En Transito,8
+1014,Textiles Del Huila,Tinte textil,50.7,2026-08-20,2026-08-29 00:00:00,En Transito,9
+1028,Textiles Del Huila,Acero laminado,467.9,2026-04-11,2026-04-17 00:00:00,Entregado,6
+1039,Insumos Andinos,Acero laminado,125.0,2026-08-11,2026-08-14 00:00:00,Pendiente,3
+1023,Insumos Andinos,Algodon crudo,380.9,2026-07-27,2026-08-03 00:00:00,En Transito,7
+1019,Textiles Del Huila,Resina plastica,99.0,2026-07-09,2026-07-20 00:00:00,Pendiente,11
+1025,Quimica Industrial Sas,Acero laminado,447.1,2026-05-10,2026-05-25 00:00:00,Pendiente,15
+1004,Acero Del Sur,Resina plastica,430.6,2026-07-07,2026-07-18 00:00:00,Entregado,11
