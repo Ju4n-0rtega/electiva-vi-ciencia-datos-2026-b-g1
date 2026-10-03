@@ -4,7 +4,7 @@ FULL_NAME: Juan Pablo Ortega Vargas
 GITHUB_USER: Ju4n-0rtega
 -->
 
-# Actividad Calificable · Corte 2 — Modelo, consulta y limpieza de datos
+# Actividad Calificable · Corte 2 — Modelo, consulta y limpieza de datos (Enlace: **Repositorio GitHub:** https://github.com/Ju4n-0rtega/electiva-vi-ciencia-datos-2026-b-g1/tree/main/09-week/actividad-c2)
 
 **Caso:** Logística y gestión de inventarios de materias primas en una empresa industrial (continuación del caso trabajado en el Corte 1).
 
